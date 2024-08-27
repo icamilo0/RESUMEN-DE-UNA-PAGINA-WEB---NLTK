@@ -1,0 +1,5 @@
+# Ignorar una carpeta llamada ".venv"
+.venv/
+
+# Ignorar un archivo específico llamado "comandos_git.txt"
+comandos_git.txt
